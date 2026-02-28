@@ -7,5 +7,6 @@ def load_weights():
     pass
 
 if __name__ == "__main__":
+    print("Initializing gemma:2b sync...")
     load_weights()
     print("Integrity check complete. Waiting for Auditor sync...")
