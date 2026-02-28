@@ -5,7 +5,9 @@ itsdangerous==2.1.2
 click==8.1.7
 
 # --- Neural Weight & Model Dependencies ---
-torch==2.2.1
+gemma
+ollama
+torch
 torchvision==0.17.1
 torchaudio==2.2.1
 numpy==1.26.4
