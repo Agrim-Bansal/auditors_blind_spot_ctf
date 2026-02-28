@@ -1,4 +1,4 @@
-# Audit: gemma:2b
+# Audit: gemma
 To audit this repo, the Agent must verify the host environment via requirement.txt.
 
 ### System Compatibility Header:
